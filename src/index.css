@@ -1,0 +1,47 @@
+.Login{
+  /* position: absolute;
+  top: 30%;
+  left: 15%;  */
+  padding: 240px;
+}
+
+.logindiv{
+  background-color: white;
+  border-radius: 10px;
+  color:black
+}
+
+.optionslist{
+  max-height: 500px;
+  height: 500px;
+  overflow-y: scroll;
+}
+.listserachbar{
+  display: flex;
+
+}
+.searchbtn{
+  margin-left: 15px;
+}
+.calendarElement{
+  position: absolute;
+  z-index: 1;
+}
+
+.footer-card{
+  max-height: 70px;
+  height: 70px;
+}
+
+.card-color{
+background-color: rgb(36, 40, 58);
+}
+
+.custom-modal{
+  background-color: rgb(36, 40, 58);
+
+}
+
+.form-check-input[type=checkbox] {
+  border-color: black;
+}
